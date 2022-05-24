@@ -11,8 +11,8 @@ import Securedpage from './components/Securedpage';
 function App() {
 
   const oktaAuth = new OktaAuth({
-    issuer: 'https://dev-34699439.okta.com/oauth2/default',
-    clientId: '0oa52xy7e8fmdcQxs5d7',    
+    issuer: 'https://okta-domain/oauth2/default',
+    clientId: '0xxxxxxxxxxxxxxxxx',    
     redirectUri: `${window.location.origin}/callback`
   });
 
