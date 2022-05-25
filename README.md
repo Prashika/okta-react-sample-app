@@ -18,6 +18,6 @@ Steps to follow:
 
    You will also need the issuer value for your Okta org. 
    
-   For example, https://dev-133337.okta.com/oauth2/default
+   For example, https://okta-domain.okta.com/oauth2/default
 
 4. Add these values in .env as environment variables.
