@@ -2,11 +2,11 @@ import React from 'react';
 import { Route, useHistory } from 'react-router-dom';
 import { LoginCallback, SecureRoute, Security } from '@okta/okta-react';
 import { OktaAuth, toRelativeUrl } from '@okta/okta-auth-js';
-import './App.css';
-import Header from './components/Header';
-import Home from './components/Home';
-import Restricted from './components/Restricted';
-import Securedpage from './components/Securedpage';
+import './components/styles/App.css';
+import Header from './components/header/Header';
+import Home from './components/pages/Home';
+import Restricted from './components/pages/Restricted';
+import Securedpage from './components/pages/Securedpage';
 
 function App() {
 
