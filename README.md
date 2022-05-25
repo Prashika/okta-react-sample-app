@@ -3,8 +3,8 @@ Steps to follow:
 
 1. Register your application by selecting Applications > Creat App Integration. On the next screen, choose OIDC and Single Page App and click Next.
 
-On the following screen, edit the application settings. 
-For React applications running in developer mode, the port number should be 3000. 
+   On the next screen, edit the application settings. 
+   App integration name: Application name 
 
 2. Configure your app as follows:
 
