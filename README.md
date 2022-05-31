@@ -1,7 +1,7 @@
 # okta-react-sample-app
 Steps to follow:
 
-1. Register your application by selecting Applications > Creat App Integration. On the next screen, choose OIDC and Single Page App and click Next.
+1. Register your application by selecting Applications -> Create App Integration. On the next screen, choose OIDC and Single Page App and click Next.
 
    On the next screen, edit the application settings. 
    App integration name: Application name 
