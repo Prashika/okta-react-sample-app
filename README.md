@@ -1,5 +1,5 @@
 # okta-react-sample-app
-Steps to follow:
+## Steps to follow:
 
 1. Register your application by selecting Applications -> Create App Integration. On the next screen, choose OIDC and Single Page App and click Next.
 
@@ -20,4 +20,28 @@ Steps to follow:
    
    For example, https://okta-domain.okta.com/oauth2/default
 
-4. Add these values in .env as environment variables.
+4. Add these values client ID and issuer value in .env as environment variables.
+
+# Implementation:
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory:
+
+### `npx create-react-app okta-react-sample-app`
+
+## Source Code:
+### Please refer: [https://github.com/Prashika/okta-react-sample-app.git](https://github.com/Prashika/okta-react-sample-app.git)
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
