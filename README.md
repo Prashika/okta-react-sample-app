@@ -1,5 +1,5 @@
 # okta-react-sample-app
-## Steps to follow:
+## Prerequisite: Steps to follow:
 1. Create your own okta-developer account
 
 2. Register your application by selecting Applications -> Create App Integration. On the next screen, choose OIDC and Single Page App and click Next.
